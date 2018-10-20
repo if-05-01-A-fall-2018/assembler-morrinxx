@@ -1,0 +1,21 @@
+# A program asking the user for the maximum number of points to be achieved and the points actually achieved.
+# The program then outputs how many percent the user got.
+
+inc 12
+
+"Enter maximum Points Points achieved"
+lit 0
+lit 20
+lit 21
+out 2
+
+la 0 32
+la 0 36
+in 0
+
+lit 21
+lit 22
+out 2
+
+
+halt
